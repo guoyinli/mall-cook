@@ -103,3 +103,6 @@ $ npm run build:dev   # 编译发布 (包括平台与h5商城项目)
 ## Mall-Cook 交流群
 大家可以加群交流低代码/零代码可视化搭建
 <img src="https://files.mdnice.com/user/2544/04a0a38f-eef8-4d59-b2c8-fbe1f41fde4b.png" alt style="display: block; margin: 30px auto; width: 30%;">
+
+## 示例链接
+http://110.42.184.128:8000/#/login
